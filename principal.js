@@ -30,7 +30,7 @@ for (var i=0; i < pacientes.length; i++) {
         tdImc.textContent = "Peso inválido";
     }
     //validar a altura
-    if (altura <=0 || altura > 3.00){
+    <td class="info-peso">100</td>
         console.log("Altura inválida");
         alturaEhValida = false;
         tdImc.textContent = "Altura inválida";
